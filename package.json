@@ -1,1 +1,1 @@
-{"name":"ammar-client-brief","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vercel dev"},"engines":{"node":">=20"}}
+{"name":"ammar-client-brief","version":"1.1.0","private":true,"type":"module","scripts":{"dev":"vercel dev","test":"node test-submit.mjs"},"dependencies":{"nodemailer":"^9.0.5"},"engines":{"node":">=20"}}
